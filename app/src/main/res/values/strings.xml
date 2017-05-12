@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="city_array">
+        <item>Katowice</item>
+        <item>Budapest</item>
+        <item>Copenhagen</item>
+
+    </string-array>
+</resources>
